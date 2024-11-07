@@ -1,0 +1,13 @@
+body{
+    background-color: darkcyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img{
+    width: 50%;
+    height: 30%;
+}
+img:hover{
+    content: url(fnaf.webp);
+    width: 50%;
+    height: 30%;
+}
